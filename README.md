@@ -43,7 +43,7 @@ foundation in software development and a passion for building practical, efficie
 ## 🤝 Let's Connect
 I’m currently seeking opportunities to apply my skills in a collaborative development environment. If you're hiring or mentoring, feel free to reach out!
 
-🔗 <a href="https://www.linkedin.com/in/williamcoleman24" target="_blank">My LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/williamcoleman24" target="_blank" rel="noopener noreferrer">My LinkedIn</a>
 📫 Email: coleman.willtx0@gmail.com
 
 ---
